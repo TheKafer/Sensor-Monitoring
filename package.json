@@ -1,0 +1,25 @@
+{
+  "name": "sensor-monitoring",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to process sensor data",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKafer/Sensor-Monitoring.git"
+  },
+  "author": "Thekafer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheKafer/Sensor-Monitoring/issues"
+  },
+  "homepage": "https://github.com/TheKafer/Sensor-Monitoring#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
